@@ -4,6 +4,7 @@
 //
 //
 //  Created by Katsiaryna Kulik  on 12.05.23.
+//  Copyright © 2023 Katsiaryna Kulik. All rights reserved.
 //
 
 import UIKit
